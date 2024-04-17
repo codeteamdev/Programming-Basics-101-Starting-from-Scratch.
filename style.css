@@ -35,6 +35,10 @@
     font-size: 0.8rem !important;
 }
 
+.bg-pattern {
+    background-image: url(./assets/media/pattern.svg);
+}
+
 .btn-dark{
     background-color: #060606;
     border: none;
